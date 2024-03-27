@@ -10,7 +10,7 @@ Para ejecutar la aplicacion en modo desarrollo.
 
 Para generar una build de produccion compilada.
 
-### `npm run test``
+### `npm run test`
 
 Para ejecutar los test unitarios del proyecto.
 
